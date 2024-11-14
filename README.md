@@ -9,7 +9,7 @@ Here’s how you can use this repo:
 ### 🌟 How to Use This Repo 🌟
 
 1. **🐞 Report Issues with the Contribution Process**  
-   Found a bug or hit a snag while setting things up or pushing a PR? Open an **[Issue](https://github.com/eclipse-ide/contributing/issues)** here to tell us what went wrong, whether it’s about installation, tooling, or submitting a PR. We’ll work to fix it and make things better! But, if you are fixing an existing bug in any project, use the project's issues system instead.
+   Found a bug or hit a snag while setting things up or pushing a PR? Open an **[Issue](https://github.com/eclipse-ide/contributing/issues)** here to tell us what went wrong, whether it’s about installation, tooling, or submitting a PR. We’ll try to fix it and make things better! But, if you are fixing an existing bug in any project, use the project's issues system instead.
 
 2. **🎉 Show Off Your Work in ‘Show and Tell’**  
    Share what you’ve built in the **[Discussions](https://github.com/eclipse-ide/contributing/discussions)** section under the ‘[Show and Tell](https://github.com/eclipse-ide/contributing/discussions/categories/show-and-tell)’ category! Describe what you did, how you did it, and any cool tricks you used along the way. This is your space to shine! ✨
